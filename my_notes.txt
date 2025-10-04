@@ -1,0 +1,3 @@
+Hoy repasé lectura y escritura de archivos en Python.
+Usar 'with open' me evita olvidar cerrar el archivo.
+Practicar con GitHub me ayuda a llevar registro.
